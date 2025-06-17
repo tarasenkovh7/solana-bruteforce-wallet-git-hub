@@ -219,4 +219,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: CDN URLs
+
+
+Update: link is accessible again
